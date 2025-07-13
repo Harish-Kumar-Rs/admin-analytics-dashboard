@@ -3,7 +3,6 @@
 This project is a real-world Excel-based dashboard designed to analyze business operations across sales, shipping, and profitability. It utilizes over 1 million rows of structured data with multiple dimensions, cleaned and modeled using Power Query and Power Pivot.
 
 > ✅ Built for decision-makers.  
-> 📊 Ideal for data analyst portfolio showcase.
 
 ---
 
